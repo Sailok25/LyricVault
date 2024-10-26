@@ -48,19 +48,6 @@
 
 <br>
 
-## 📊 Especificaciones de la Base de Datos
-La tabla usuaris contiene:
-
-DNI: Identificación única de usuario.
-Nom_Usuari, Cognom_Usuari: Nombre y apellido del usuario.
-Correu_Electronic: Email del usuario.
-Contrasenya: Contraseña encriptada.
-Data_Alta: Fecha de registro (auto-generada).
-Rols: Roles de usuario (auto-generada).
-Numero_Telefon: Número de contacto.
-
-<br>
-
 ## 🔒 Seguridad
 Las contraseñas se encriptan para asegurar la privacidad de los usuarios.
 La aplicación valida entradas y muestra mensajes de error en caso de datos incorrectos.
