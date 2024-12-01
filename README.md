@@ -12,52 +12,15 @@
 
 # 🎶 LyricVault
 
-**LyricVault** es una aplicación web para explorar, compartir y gestionar letras de canciones. Ofrece una plataforma dedicada a los amantes de la música que desean tener un espacio donde compartir sus letras favoritas y descubrir nuevas canciones.
 
 <br>
 
 ## ✨ Características
 
-- **Registro y autenticación**: Los usuarios pueden registrarse, iniciar sesión y gestionar su perfil.
-- **Búsqueda y exploración**: Accede a letras subidas por otros usuarios y explora contenido musical.
-- **Gestión de letras**: Permite a los usuarios compartir sus letras, mientras que los administradores pueden gestionar el contenido para mantener la calidad de la plataforma.
-
-<br>
-
-## 📂 Estructura del Proyecto
-
-<br>
-
-## 🛠️ Configuración
-
-1. Clona el repositorio:
-   ```bash
-   git clone <URL_del_repositorio>
-   
-2. Configura el archivo php/connexio.php para conectar a tu base de datos:
-  ```php
-  $servername = "localhost";
-  $username = "usuario";
-  $password = "contraseña";
-  $dbname = "lyricvault_db";
-  ```
-
-3. Importa la base de datos lyricvault_db.sql en tu servidor MySQL.
-
-4. Accede a la aplicación en http://localhost/LyricVault.
-
 <br>
 
 ## 🔒 Seguridad
-Las contraseñas se encriptan para asegurar la privacidad de los usuarios.
-La aplicación valida entradas y muestra mensajes de error en caso de datos incorrectos.
-
-<br>
-
-## 🚀 Funcionalidades en Desarrollo
-Optimización responsiva: Mejorar la experiencia en dispositivos móviles.
-Sistema de roles: Facilitar la gestión de contenido y usuarios.
-<br>
+...
 
 ## 📝 Nota
-Este proyecto se realiza con fines educativos. No utiliza contenido de terceros sin permisos y respeta los derechos de autor de las letras publicadas.
+...
