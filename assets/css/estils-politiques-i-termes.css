@@ -1,0 +1,135 @@
+/* Política de Privacidad */
+#politica-de-privacitat {
+    width: 100%;
+    height: 100%;
+    display: flex;
+    justify-content: space-evenly;
+    flex-direction: column;
+    align-items: flex-start;
+}
+
+#politica-de-privacitat h1 {
+    font-family: 'Bebas Neue';
+    font-weight: 400;
+    font-size: 6rem;
+    text-transform: uppercase;
+    letter-spacing: 0.2rem;
+    color: #9254DE;
+    padding-top: 3rem;
+}
+
+#politica-de-privacitat h2 {
+    font-family: 'Bebas Neue';
+    font-weight: 300;
+    font-size: 4.8rem;
+    text-transform: uppercase;
+    letter-spacing: 0.2rem;
+    color: #9254DE;
+    padding-top: 3rem;
+}
+
+#politica-de-privacitat h3 {
+    font-family: 'Bebas Neue';
+    font-weight: 200;
+    font-size: 3.8rem;
+    text-transform: uppercase;
+    letter-spacing: 0.2rem;
+    color: #9254DE;
+    padding-top: 3rem;  
+}
+
+#politica-de-privacitat h4 {
+    font-family: 'Bebas Neue';
+    font-weight: 100;
+    font-size: 2.8rem;
+    text-transform: uppercase;
+    letter-spacing: 0.2rem;
+    color: #9254DE;
+    padding-top: 3rem;   
+}
+
+#politica-de-privacitat p {
+    font-family: 'Oswald';
+    font-size: 2rem;
+    color: white;
+}
+
+#politica-de-privacitat a {
+    color: #9254DE;
+}
+
+#politica-de-privacitat ul {
+    padding-left: 2rem;
+}
+
+#politica-de-privacitat ul li {
+    padding-bottom: 2rem;
+    font-family: 'Oswald';
+    font-size: 2rem;
+    color: white;
+}
+
+#politica-de-privacitat ul li::marker {
+    color: #9254DE;
+    font-size: 1.2rem;
+}
+
+#correo-enfasis {
+    color: #9254DE;
+}
+
+/* Termes i Condicions */
+#termes-i-condicions {
+    width: 100%;
+    height: 100%;
+    display: flex;
+    justify-content: space-evenly;
+    flex-direction: column;
+    align-items: flex-start;
+}
+
+#termes-i-condicions h1 {
+    font-family: 'Bebas Neue';
+    font-weight: 400;
+    font-size: 6rem;
+    text-transform: uppercase;
+    letter-spacing: 0.2rem;
+    color: #9254DE;
+    padding-top: 3rem;
+}
+
+#termes-i-condicions h2 {
+    font-family: 'Bebas Neue';
+    font-weight: 300;
+    font-size: 4.8rem;
+    text-transform: uppercase;
+    letter-spacing: 0.2rem;
+    color: #9254DE;
+    padding-top: 3rem;
+}
+
+#termes-i-condicions p {
+    font-family: 'Oswald';
+    font-size: 2rem;
+    color: white;
+}
+
+#termes-i-condicions a {
+    color: #9254DE;
+}
+
+#termes-i-condicions ul {
+    padding-left: 2rem;
+}
+
+#termes-i-condicions ul li {
+    padding-bottom: 2rem;
+    font-family: 'Oswald';
+    font-size: 2rem;
+    color: white;
+}
+
+#termes-i-condicions ul li::marker {
+    color: #9254DE;
+    font-size: 1.2rem;
+}
